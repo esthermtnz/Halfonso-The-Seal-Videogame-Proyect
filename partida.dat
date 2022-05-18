@@ -1,0 +1,151 @@
+#l:11|Inicio a Derecha|111|121|2|0|
+#l:12|Inicio a Norte|111|112|0|0|
+#l:13|Inicio a Sur|111|-1|1|1|
+#l:14|Inicio a Izquierda|111|131|3|0|
+#l:15|Inicio a Abajo|111|-1|5|1|
+#l:16|Inicio a Arriba|111|-1|4|1|
+#l:21|Derecha a Inicio|121|111|3|0|
+#l:22|Derecha a Sur|121|-1|1|1|
+#l:23|Derecha a Norte|121|-1|0|1|
+#l:24|Derecha a Arriba|121|-1|4|1|
+#l:25|Derecha a Abajo|121|-1|5|1|
+#l:26|Derecha a BifurcacionD|121|122|2|0|
+#l:31|BifurcacionD a Derecha|122|121|3|0|
+#l:32|BifurcacionD a Norte|122|123|0|0|
+#l:33|BifurcacionD a Sur|122|124|1|0|
+#l:34|BifurcacionD a Arriba|122|-1|4|1|
+#l:35|BifurcacionD a este|122|125|2|0|
+#l:36|BifurcacionD a Abajo|122|-1|5|1|
+#l:41|Estanque a Sur|123|122|1|0|
+#l:42|Estanque a Norte|123|-1|0|1|
+#l:43|Estanque a Este|123|-1|2|1|
+#l:44|Estanque a Oeste|123|-1|3|1|
+#l:45|Estanque a Arriba|123|-1|4|1|
+#l:46|Estanque a Abajo|123|-1|5|1|
+#l:51|TunelD a norte|124|122|0|0|
+#l:52|TunelD a sur|124|-1|1|1|
+#l:53|TunelD a este|124|134|2|0|
+#l:54|TunelD a oeste|124|-1|3|1|
+#l:55|TunelD a arriba|124|-1|4|1|
+#l:56|TunelD a abajo|124|-1|5|1|
+#l:61|Escaleras a norte|112|-1|0|1|
+#l:62|Escaleras a sur|112|111|1|0|
+#l:63|Escaleras a este|112|-1|2|1|
+#l:64|Escaleras a oeste|112|-1|3|1|
+#l:65|Escaleras a arriba|112|-1|4|1|
+#l:66|Escaleras a abajo|112|141|5|0|
+#l:71|FinalD a norte|125|-1|0|1|
+#l:72|FinalD a sur|125|-1|1|1|
+#l:73|FinalD a este|125|-1|2|1|
+#l:74|FinalD a oeste|125|122|3|0|
+#l:75|FinalD a arriba|125|-1|4|1|
+#l:76|FinalD a abajo|125|-1|5|1|
+#l:81|Izquierda a Norte|131|-1|0|1|
+#l:82|Izquierda a Sur|131|-1|1|1|
+#l:83|Izquierda a Este|131|111|2|0|
+#l:84|Izquierda a Oeste|131|132|3|0|
+#l:85|Izquierda a Abajo|131|-1|5|1|
+#l:86|Izquierda a Arriba|131|-1|4|1|
+#l:91|BifurcacionI a Norte|132|133|0|0|
+#l:92|BifurcacionI a Sur|132|134|1|0|
+#l:93|BifurcacionI a Este|132|131|2|0|
+#l:94|BifurcacionI a Oeste|132|-1|3|1|
+#l:95|BifurcacionI a Arriba|132|-1|4|1|
+#l:96|BifurcacionI a Abajo|132|-1|5|1|
+#l:101|Claro a Norte|133|-1|0|1|
+#l:102|Claro a Sur|133|132|1|0|
+#l:103|Claro a Este|133|-1|2|1|
+#l:104|Claro a Oeste|133|-1|3|1|
+#l:105|cielo|133|151|4|1|
+#l:106|Claro a Abajo|133|-1|5|1|
+#l:111|Tunel a Norte|134|132|0|0|
+#l:112|Tunel a Sur|134|-1|1|1|
+#l:113|Tunel a Este|134|-1|2|1|
+#l:114|Tunel a Oeste|134|124|3|0|
+#l:115|Tunel a Arriba|134|-1|4|1|
+#l:116|Tunel a Abajo|134|-1|5|1|
+#l:121|Nubes a Norte|151|-1|0|1|
+#l:122|Nubes a Sur|151|-1|1|1|
+#l:123|Nubes a Este|151|-1|2|1|
+#l:124|Nubes a Oeste|151|-1|3|1|
+#l:125|Nubes a Arriba151|-1|4|1|0|
+#l:126|Nubes a Abajo|151|133|5|0|
+#l:131|Icueva a Norte|141|-1|0|1|
+#l:132|Icueva a Sur|141|142|1|0|
+#l:133|Icueva a Este|141|-1|2|1|
+#l:134|Icueva a Oeste|141|-1|3|1|
+#l:135|Icueva a Arriba|141|112|4|0|
+#l:136|Icueva a Abajo|141|-1|5|1|
+#l:141|Bcueva a Norte|142|141|0|0|
+#l:142|Bcueva a Sur|142|-1|1|1|
+#l:143|Bcueva a Este|142|143|2|0|
+#l:144|Bcueva a Oeste|142|144|3|0|
+#l:145|Bcueva a Arriba|142|-1|4|1|
+#l:146|Bcueva a Abajo|142|-1|5|1|
+#l:151|CuevaD a Norte|143|-1|0|1|
+#l:152|CuevaD a Sur|143|-1|1|1|
+#l:153|CuevaD a Este|143|-1|2|1|
+#l:154|CuevaD a Oeste|143|142|3|0|
+#l:155|CuevaD a Arriba|143|-1|4|1|
+#l:156|CuevaD a Abajo|143|-1|5|1|
+#l:161|CuevaI a Norte|144|-1|0|1|
+#l:162|CuevaI a Sur|144|161|1|0|
+#l:163|CuevaI a Este|144|142|2|0|
+#l:164|CuevaI a Oeste|144|-1|3|1|
+#l:165|CuevaI a Arriba|144|-1|4|1|
+#l:166|CuevaI a Abajo|144|-1|5|1|
+#l:171|Puerta a Norte|161|144|0|0|
+#l:172|Puerta a Sur|161|-1|1|1|
+#l:173|puerta|161|162|2|1|
+#l:174|Puerta a Oeste|161|-1|3|1|
+#l:175|Puerta a Arriba|161|-1|4|1|
+#l:176|Puerta a Abajo|161|-1|5|1|
+#l:181|Final a Norte|162|-1|0|1|
+#l:182|Final a Sur|162|-1|1|1|
+#l:183|Final a Este|162|-1|2|1|
+#l:184|Final a Oeste|162|161|3|0|
+#l:185|Final a Arriba|162|-1|4|1|
+#l:186|Final a Abajo|162|-1|5|1|
+
+#s:111|Bifurcacion|Bifurcacion con tres caminos|1|Espacio con luz|         |mm     \\|m       \|         |m       /|
+#s:112|Entrada a la cueva|Entrada a la cueva|1|Espacio con luz|         |         |         |___      |  I___   |
+#s:121|Inicio del glaciar|Inicio del glaciar|1|Espacio con luz|         | /\      |//\\  /\ |         |      /\ |
+#s:122|Bifurcacion del glaciar|Bifurcacion del glaciar|1|Espacio con luz||//      ^|/       I|         |\       I|
+#s:123|Estanque Curativo|Estanque magico|1|Espacio con luz|         |////I\\\\|//nnnnn\\|InnnnnnnI|\\nnnnn//|
+#s:124|Tunel del Glaciar|Gran tunel|1|Espacio con luz|         |  \\\\\\\|      \\\|        I|      ///|
+#s:125|Camino sin final del glaciar|Camino cerrado|1|Espacio con luz|         |       \\|       II|       II|       II|
+#s:131|Inicio del bosque|Entrada al bosque|1|Espacio con luz|         |mmmmmmmmm|mmmmmmmmm|)=======(|mmmmmmmmm|
+#s:132|Bifurcacion del camino izquierdo|Bifurcacion del bosque|1|Espacio con luz|         |mmmm=mmmm|mmmm=mmmm|mmmm=====|mmmm=mmmm|
+#s:133|Claro del bosque|Claro del bosque|1|Espacio con luz|         |mmmmmmmmm|mm     mm|m   s   m|mm     mm|
+#s:134|Tunel del bosque|Gran tunel|1|Espacio con luz|         |mmmmmmm  |mmm      |I        |mmm      |
+#s:141|Inicio de la cueva|Comienzo de la cueva|0|Esta muy oscuro|         |         |      ___|   ___I  |___I   oO|
+#s:142|Bifurcacion de la cueva|Bifurcacion de la cueva|0|Esta muy oscuro|         |oOoo  0Oo|Ooo     O|         |o0    o0O|
+#s:143|Camino derecho de la cueva|Camino cerrado|0|Esta muy oscuro|         |oo0O0o00o|0o     O0|        0|oO     o0|
+#s:144|Camino izquierdo de la cueva|Continuación de la cueva|0|Esta muy oscuro|         |oo0O0o00o|0o     O0|O        |oO     o0|
+#s:151|Sobre las nubes|Nube gigante|1|Espacio con luz|         |     ss  |    ss   |   _s_   | _(   )_ |
+#s:161|Puerta|Sala con una puerta gigante|1|Espacio con luz|         |  =====  | ==-I-== |==--I--==|=---I---=|
+#s:162|Casa de la morsa|Hogar de la morsa|1|Espacio con luz|         |======== |nnnnnnn==|nnnnnnnn=|nnnnnnn==|
+
+#o:1|Linterna|-1|Ilumina espacios a oscuras|1|-1|-1|1|0|
+#o:2|Semilla|125|Pequena semilla plantable|1|-1|105|0|0|
+#o:3|Llave|151|Abre puertas|1|-1|173|0|0|
+#o:4|Pocion|143|Objeto curativo|1|-1|-1|0|0|
+#o:5|Arbol|133|Arbol muy grande, es posible escalarlo|0|-1|-1|0|0|
+#o:6|Monte|121|Monte increiblemente grande|0|-1|-1|0|0|
+#o:7|Colina|121|Pequena elevacion del terreno|0|-1|-1|0|0|
+#o:8|Escaleras|112|Escaleras descendentes|0|-1|-1|0|0|
+#o:9|Escaleras|141|Escaleras anscendentes|0|-1|-1|0|0|
+#o:10|Enredadera|151|Enredadera descendente|0|-1|-1|0|0|
+#o:11|Lago|123|Lago magico medicinal|0|-1|-1|0|0|
+#o:12|Puerta gigante|161|Puerta de tamano descomunal|0|-1|-1|0|0|
+#o:13|Tunel|124|Tunel del glaciar|0|-1|-1|0|0|
+#o:14|Tunel|134|Tunel del bosque|0|-1|-1|0|0|
+#o:15|Cartel|134|Cartel que marca una bifurcacion|0|-1|-1|0|0|
+#o:16|Nube|133|Gran nube en el cielo|0|-1|-1|0|0|
+#o:17|Rocas|142|Rocas variadas sin uso|0|-1|-1|0|0|
+#o:18|Letrero|111|Letrero que marca multiples caminos|0|-1|-1|0|0|
+#o:19|Casa|162|Casa en la que vive la morsa|0|-1|-1|0|0|
+#o:20|Minerales|144|Materiales valiosos sin uso para una foca|0|-1|-1|0|0|
+
+#p:1|halfonso|121|10|3|
+#e:2|morsa|162|20|
